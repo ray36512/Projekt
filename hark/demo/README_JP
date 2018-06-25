@@ -1,0 +1,64 @@
+HARK音声認識セット (料理注文)
+
+概要
+このファイル群は、第13回 HARK 講習会(2016年12月 早稲田大学にて開催) <practice 2> にて
+使用されたものをベースにツールキット化したものである。
+HARK 2.3.0修正版(2017年4月リリース)以降で使用できる。
+Kaldi音声認識モデルは料理注文に特化したものである。
+(語彙は kaldi_conf/kaldi_conf/exp84_atr-jnas_egg20160906_ORIG-SPK1-SPK1HN-SPK2-SPK2HN/tri3adnn6_smbr/graph_lm_order_simple/words.txt を参照)
+
+準備
+Python2をインストールする
+HARK2.3.0修正版(2017年4月リリース)をインストールする
+
+Windows版
+http://www.hark.jp/wiki.cgi?page=Softwares#p9
+HARK_for_Windows 2.3.0.7 以降
+
+Ubuntu版
+http://www.hark.jp/wiki.cgi?page=HARK+Installation+Instructions
+kaldidecoder-hark 2.3.0.20170323 以降
+harkfd 2.3.0.8526 以降
+他のHARKパッケージは 2.3.0 以降
+
+使い方(Windows/Ubuntu共通)
+
+waveファイル音声認識
+(1) Kaldiを起動
+$ python python/Kaldi.py
+"KaldiReceiver connected."が出るまで待つ
+
+(2) HARKを実行
+$ batchflow sep_rec_offline.n 2SPK-jp.wav
+終了するまで待つ。
+
+(3) 音声認識結果を出力・確認
+pythonのウィンドウをCtrl+Cで終了する。
+kaldi_out.txtが出力されているので、内容を確認。
+kaldi_out.txt はID,Azimuth,認識結果が出力される。IDの順番を昇順に並び替える。
+transcription.txt(正解データ)と比較する。
+分離音は sep_file/ に出力されている。
+
+
+マイクアレイ音声認識
+マイクアレイはtamagoに対応している。
+http://www.hark.jp/wiki.cgi?page=SupportedHardware#p5
+(1) マイクアレイの設定
+tamagoをPCに接続し、HARK Designerでsep_rec_online.nを開き、
+AudioStreamFromMicのプロパティDEVICETYPE、DEVICEを環境に合わせて変える。
+(初期状態でDEVICETYPE=DS、DEVICE=TAMAGOが設定されている。Windowsではそのまま使用可能)
+
+(2) Kaldiを起動
+$ python python/Kaldi.py
+"KaldiReceiver connected."が出るまで待つ
+
+(3) HARKを実行
+$ batchflow sep_rec_online.n
+
+(4) マイクアレイに向かって話す
+
+(5) 終了
+HARKとpythonのウィンドウ両方をCtrl+Cで終了する。
+kaldi_out.txtが出力されているので、内容を確認。
+kaldi_out.txt はID,Azimuth,認識結果が出力される。
+分離音は sep_file/ に出力されている。
