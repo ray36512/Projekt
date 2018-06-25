@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.6.25)  25 JUN 2018 19:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.6.25)  25 JUN 2018 19:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/home/niessing/Projects/projektseminar_robotics_ss18/latex/Main
-(/home/niessing/Projects/projektseminar_robotics_ss18/latex/Main.tex
+**Main.tex
+(./Main.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (./PS.cls
@@ -21,6 +21,7 @@ LaTeX Font Info:    Try loading font information for OT1+ptm on input line 784.
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 \@IEEEnormalsizefontbaselineskip=\skip41
+
 -- This is a 10 point document.
 \normalsizebaselineskip=\skip42
 \normaljot=\skip43
@@ -97,41 +98,51 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 \@IEEEtmpitemindent=\dimen112
 \c@biography=\count90
 \@IEEEtranrubishbin=\box26
-) (./PS.sty (/usr/share/texlive/texmf-dist/tex/generic/german/ngerman.sty v2.5e
- 1998-07-08
+) (./PS.sty (/usr/share/texlive/texmf-dist/tex/generic/german/ngerman.sty
+v2.5e 1998-07-08
 Package: ngerman 1998/07/08 v2.5e Support for writing german texts (br)
 \grmnU@D=\dimen113
 ngerman -- \language number for naustrian undefined, default 24 used.
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 95.
+
 (/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count91
 ))
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
-) (/usr/share/texlive/texmf-dist/tex/latex/psfrag/psfrag.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psfrag/psfrag.sty
 Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
 \pfg@pcount=\count92
 \pfg@scount=\count93
 \pfg@temp=\write3
-) (/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
 Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \subfigtopskip=\skip47
 \subfigcapskip=\skip48
@@ -143,29 +154,36 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \c@lofdepth=\count95
 \c@subtable=\count96
 \c@lotdepth=\count97
+
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
 (/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
 \subfig@top=\skip51
 \subfig@bottom=\skip52
-) (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2016/03/03 v2.15a AMS math features
 \@mathmargin=\skip53
+
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
+
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
 \ex@=\dimen118
-)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen119
-) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count98
@@ -205,26 +223,32 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
 \mathdisplay@stack=\toks20
 LaTeX Info: Redefining \[ on input line 2735.
 LaTeX Info: Redefining \] on input line 2736.
-) (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen127
 \extrarowheight=\dimen128
 \NC@list=\toks21
 \extratabsurround=\skip56
 \backup@length=\skip57
-)) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 )
 LaTeX Font Info:    Try loading font information for T1+ptm on input line 105.
+
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
-)) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks22
 \inpenc@posthook=\toks23
+
 (/usr/share/texlive/texmf-dist/tex/latex/base/latin1.def
 File: latin1.def 2015/03/17 v1.2c Input encoding file
 )) (./Main.aux)
@@ -282,6 +306,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 16.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <24> not available
 (Font)              Font shape `T1/ptm/b/it' tried instead on input line 16.
+
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count110
@@ -298,10 +323,12 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <24> not available
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
+
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
@@ -309,16 +336,22 @@ Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-)) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
@@ -330,6 +363,7 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
+
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
@@ -358,6 +392,7 @@ o.pdf ./pics/rmr.eps>
 Package epstopdf Info: Output file is already uptodate.
 <./pics/rmr-eps-converted-to.pdf, id=1, 542.025pt x 17.06375pt>
 File: ./pics/rmr-eps-converted-to.pdf Graphic file (type pdf)
+
 <use ./pics/rmr-eps-converted-to.pdf>
 Package pdftex.def Info: ./pics/rmr-eps-converted-to.pdf used on input line 117
 .
@@ -387,8 +422,10 @@ Package epstopdf Info: Source file: <./pics/ComicKopf.eps>
 rted-to.pdf ./pics/ComicKopf.eps>
 (epstopdf)             \includegraphics on input line 127.
 Package epstopdf Info: Output file is already uptodate.
+
 <./pics/ComicKopf-eps-converted-to.pdf, id=21, 81.30376pt x 69.25874pt>
 File: ./pics/ComicKopf-eps-converted-to.pdf Graphic file (type pdf)
+
 <use ./pics/ComicKopf-eps-converted-to.pdf>
 Package pdftex.def Info: ./pics/ComicKopf-eps-converted-to.pdf used on input li
 ne 127.
@@ -404,6 +441,7 @@ rted-to.pdf ./pics/ComicKopf.eps>
 (epstopdf)             \includegraphics on input line 127.
 Package epstopdf Info: Output file is already uptodate.
 File: ./pics/ComicKopf-eps-converted-to.pdf Graphic file (type pdf)
+
 <use ./pics/ComicKopf-eps-converted-to.pdf>
 Package pdftex.def Info: ./pics/ComicKopf-eps-converted-to.pdf used on input li
 ne 127.
@@ -419,6 +457,7 @@ rted-to.pdf ./pics/ComicKopf.eps>
 (epstopdf)             \includegraphics on input line 132.
 Package epstopdf Info: Output file is already uptodate.
 File: ./pics/ComicKopf-eps-converted-to.pdf Graphic file (type pdf)
+
 <use ./pics/ComicKopf-eps-converted-to.pdf>
 Package pdftex.def Info: ./pics/ComicKopf-eps-converted-to.pdf used on input li
 ne 132.
@@ -434,6 +473,7 @@ rted-to.pdf ./pics/ComicKopf.eps>
 (epstopdf)             \includegraphics on input line 132.
 Package epstopdf Info: Output file is already uptodate.
 File: ./pics/ComicKopf-eps-converted-to.pdf Graphic file (type pdf)
+
 <use ./pics/ComicKopf-eps-converted-to.pdf>
 Package pdftex.def Info: ./pics/ComicKopf-eps-converted-to.pdf used on input li
 ne 132.
@@ -449,6 +489,7 @@ rted-to.pdf ./pics/ComicKopf.eps>
 (epstopdf)             \includegraphics on input line 137.
 Package epstopdf Info: Output file is already uptodate.
 File: ./pics/ComicKopf-eps-converted-to.pdf Graphic file (type pdf)
+
 <use ./pics/ComicKopf-eps-converted-to.pdf>
 Package pdftex.def Info: ./pics/ComicKopf-eps-converted-to.pdf used on input li
 ne 137.
@@ -464,6 +505,7 @@ rted-to.pdf ./pics/ComicKopf.eps>
 (epstopdf)             \includegraphics on input line 137.
 Package epstopdf Info: Output file is already uptodate.
 File: ./pics/ComicKopf-eps-converted-to.pdf Graphic file (type pdf)
+
 <use ./pics/ComicKopf-eps-converted-to.pdf>
 Package pdftex.def Info: ./pics/ComicKopf-eps-converted-to.pdf used on input li
 ne 137.
@@ -478,8 +520,10 @@ Package epstopdf Info: Source file: <./pics/rmr2.eps>
 to.pdf ./pics/rmr2.eps>
 (epstopdf)             \includegraphics on input line 141.
 Package epstopdf Info: Output file is already uptodate.
+
 <./pics/rmr2-eps-converted-to.pdf, id=28, 543.02875pt x 18.0675pt>
 File: ./pics/rmr2-eps-converted-to.pdf Graphic file (type pdf)
+
 <use ./pics/rmr2-eps-converted-to.pdf>
 Package pdftex.def Info: ./pics/rmr2-eps-converted-to.pdf used on input line 14
 1.
@@ -496,25 +540,25 @@ Overfull \hbox (3.21994pt too wide) has occurred while \output is active
 
 [2
 
- <./pics/ComicKopf-eps-converted-to.pdf> <./pics/rmr2-eps-converted-to.pdf>] (.
-/Main.aux) ) 
+ <./pics/ComicKopf-eps-converted-to.pdf> <./pics/rmr2-eps-converted-to.pdf>]
+(./Main.aux) ) 
 Here is how much of TeX's memory you used:
- 3588 strings out of 493029
- 49901 string characters out of 6136234
+ 3587 strings out of 493029
+ 49726 string characters out of 6136234
  119465 words of memory out of 5000000
  7052 multiletter control sequences out of 15000+600000
  123825 words of font info for 128 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,10n,40p,430b,320s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi
-8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+ 38i,10n,40p,375b,320s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utm
+bi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
 Output written on Main.pdf (2 pages, 107911 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
