@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.6.25)  26 JUN 2018 23:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.6.25)  28 JUN 2018 21:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -368,92 +368,176 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Underfull \hbox (badness 1824) in paragraph at lines 49--50
+Underfull \hbox (badness 1824) in paragraph at lines 49--53
 \T1/ptm/m/n/10 and par-tic-le fil-te-ring ( htt-ps://arxiv.org/abs/1602.08139 )
 .
  []
 
 
-Underfull \hbox (badness 5316) in paragraph at lines 49--50
+Underfull \hbox (badness 5316) in paragraph at lines 49--53
 \OML/cmm/m/it/10 https \OT1/cmr/m/n/10 : \OML/cmm/m/it/10 ==link:springer:com=c
 hapter=\OT1/cmr/m/n/10 10\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 1007\OML/cmm/m/it/10
  =\OT1/cmr/m/n/10 978 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Underfull \hbox (badness 2903) in paragraph at lines 49--50
+Underfull \hbox (badness 2903) in paragraph at lines 49--53
 \OT1/cmr/m/n/10 3 \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 540 \OMS/cmsy/m/n/10 ^^@
  \OT1/cmr/m/n/10 87559 \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 8[]1$\T1/ptm/m/n/10
  ) in 2008. Their ex-pri-men-tal
  []
 
 
-Underfull \hbox (badness 1360) in paragraph at lines 49--50
+Underfull \hbox (badness 1360) in paragraph at lines 49--53
 \T1/ptm/m/n/10 -90 to 90 de-gree. In 2009, Mur-ray \T1/ptm/m/it/10 et al. \T1/p
 tm/m/n/10 pre-sen-ted a
  []
 
 
-Underfull \hbox (badness 2460) in paragraph at lines 49--50
+Underfull \hbox (badness 2460) in paragraph at lines 49--53
 \T1/ptm/m/n/10 hy-brid ar-chi-tec-ture using cross-correlation and re-cur-rent
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
 \OML/cmm/m/it/10 ==link:springer:com=chapter=\OT1/cmr/m/n/10 10\OML/cmm/m/it/10
  :\OT1/cmr/m/n/10 1007\OML/cmm/m/it/10 =\OT1/cmr/m/n/10 11521082[]$\T1/ptm/m/n/
 10 ).Using
  []
 
 
-Overfull \hbox (37.87115pt too wide) in paragraph at lines 49--50
+Overfull \hbox (37.87115pt too wide) in paragraph at lines 49--53
 \OML/cmm/m/it/10 speech:org=archive=archive[]apers=interspeech[]\OT1/cmr/m/n/10
  005\OML/cmm/m/it/10 =i\OT1/cmr/m/n/10 05[]249\OML/cmm/m/it/10 :pdf$\T1/ptm/m/n
 /10 ).
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 49--50
+Underfull \hbox (badness 2111) in paragraph at lines 49--53
 \T1/ptm/m/n/10 The used fil-ters had dif-fe-rent his-to-ry lengt-hs in or-der
  []
 
 
-Underfull \hbox (badness 1939) in paragraph at lines 49--50
+Underfull \hbox (badness 1939) in paragraph at lines 49--53
 \T1/ptm/m/n/10 to re-du-ce er-rors un-der noi-sy and echoic en-vi-ron-ments.
  []
 
 
-Underfull \hbox (badness 2020) in paragraph at lines 49--50
+Underfull \hbox (badness 2020) in paragraph at lines 49--53
 \T1/ptm/m/n/10 suc-cess-ful-ly even when spea-kers and the mo-bi-le ro-bot
  []
 
 
-Underfull \hbox (badness 2173) in paragraph at lines 49--50
+Underfull \hbox (badness 2173) in paragraph at lines 49--53
 \T1/ptm/m/n/10 in com-mon that they are built to work in clo-sed or
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 49--50
+Underfull \hbox (badness 1371) in paragraph at lines 49--53
 \T1/ptm/m/n/10 crow-ded en-vi-ron-ments to in-ter-act with peo-ple. Fo-cu-sing
  []
 
 
-Underfull \hbox (badness 1616) in paragraph at lines 49--50
+Underfull \hbox (badness 1616) in paragraph at lines 49--53
 \T1/ptm/m/n/10 on au-di-ti-ve sys-tems for cars, we find that Fa-zen-da \T1/ptm
 /m/it/10 et
  []
 
 
-Underfull \hbox (badness 5592) in paragraph at lines 49--50
+Underfull \hbox (badness 5592) in paragraph at lines 49--53
 \T1/ptm/m/it/10 al. \T1/ptm/m/n/10 de-mons-tra-ted an acou-stic ba-sed sa-fe-ty
  emer-gen-cy
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
 \T1/ptm/m/n/10 ($\OML/cmm/m/it/10 https \OT1/cmr/m/n/10 : \OML/cmm/m/it/10 ==ie
 eexplore:ieee:org=document=\OT1/cmr/m/n/10 5332788\OML/cmm/m/it/10 =$\T1/ptm/m/
 n/10 ).
+ []
+
+
+Underfull \hbox (badness 2828) in paragraph at lines 49--53
+\T1/ptm/m/n/10 lo-ca-li-za-ti-on, tracking and se-pa-ra-ti-on. Ano-ther im-port
+-ant
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 49--53
+\T1/ptm/m/n/10 aspect for a hea-ring car is sour-ce clas-si-fi-ca-ti-on. Whi-le
+
+ []
+
+
+Underfull \hbox (badness 6893) in paragraph at lines 49--53
+\T1/ptm/m/n/10 be con-fron-ted with en-vi-ron-men-tal so-unds. Per-for-ming
+ []
+
+
+Underfull \hbox (badness 2393) in paragraph at lines 49--53
+\T1/ptm/m/n/10 sour-ce clas-si-fi-ca-ti-on with neural net-works is an ac-ti-ve
+
+ []
+
+
+Underfull \hbox (badness 6032) in paragraph at lines 49--53
+\T1/ptm/m/n/10 field of re-a-search. In 2012 Shen et all. ($\OML/cmm/m/it/10 ht
+tps \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (45.29083pt too wide) in paragraph at lines 49--53
+\OML/cmm/m/it/10 ==www:sciencedirect:com=science=article=pii=S\OT1/cmr/m/n/10 1
+474667016334127$\T1/ptm/m/n/10 )
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
+\T1/ptm/m/n/10 pro-po-sed a sys-tem ba-sed on pat-tern re-co-gni-ti-on
+ []
+
+
+Underfull \hbox (badness 4608) in paragraph at lines 49--53
+\T1/ptm/m/n/10 using a Gaus-si-an mix-ture mo-dels and Mel-Frequency
+ []
+
+
+Underfull \hbox (badness 3547) in paragraph at lines 49--53
+\T1/ptm/m/n/10 Cep-stal Co-ef-fi-cients fea-tu-res. Their sys-tem sho-wed an
+ []
+
+
+Underfull \hbox (badness 8000) in paragraph at lines 49--53
+\T1/ptm/m/n/10 ave-ra-ge ac-cu-ra-cy of 91.36% for off-line tests with
+ []
+
+
+Underfull \hbox (badness 5622) in paragraph at lines 49--53
+\T1/ptm/m/n/10 8 dif-fe-rent sound sources. Fur-ther eva-lua-ti-on in on-
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 49--53
+\T1/ptm/m/n/10 line tests yield good re-sults as well. Pisz-ak ($\OML/cmm/m/it/
+10 https \OT1/cmr/m/n/10 :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
+\OML/cmm/m/it/10 ==ieeexplore:ieee:org=abstract=document=\OT1/cmr/m/n/10 732433
+7\OML/cmm/m/it/10 =$\T1/ptm/m/n/10 )
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 49--53
+\T1/ptm/m/n/10 clips of en-vi-ron-men-tal so-unds. His mo-del out-per-for-med
+ []
+
+
+Overfull \hbox (12.288pt too wide) in paragraph at lines 55--56
+[]\T1/ptm/m/n/10 Baelde ($\OML/cmm/m/it/10 https \OT1/cmr/m/n/10 : \OML/cmm/m/i
+t/10 ==ieeexplore:ieee:org=document=\OT1/cmr/m/n/10 7952592\OML/cmm/m/it/10 =$\
+T1/ptm/m/n/10 ) 
  []
 
 Package epstopdf Info: Source file: <./pics/rmr.eps>
@@ -464,13 +548,13 @@ Package epstopdf Info: Source file: <./pics/rmr.eps>
 (epstopdf)                    size: 8532 bytes
 (epstopdf)             Command: <repstopdf --outfile=./pics/rmr-eps-converted-t
 o.pdf ./pics/rmr.eps>
-(epstopdf)             \includegraphics on input line 93.
+(epstopdf)             \includegraphics on input line 62.
 Package epstopdf Info: Output file is already uptodate.
 <./pics/rmr-eps-converted-to.pdf, id=1, 542.025pt x 17.06375pt>
 File: ./pics/rmr-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./pics/rmr-eps-converted-to.pdf>
-Package pdftex.def Info: ./pics/rmr-eps-converted-to.pdf used on input line 93.
+Package pdftex.def Info: ./pics/rmr-eps-converted-to.pdf used on input line 62.
 
 (pdftex.def)             Requested size: 516.0pt x 16.24507pt.
 
@@ -488,6 +572,8 @@ Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
  <./pics/rmr-eps-converted-to.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 Package epstopdf Info: Source file: <./pics/rmr2.eps>
 (epstopdf)                    date: 2018-06-25 22:06:28
 (epstopdf)                    size: 2462 bytes
@@ -496,15 +582,15 @@ Package epstopdf Info: Source file: <./pics/rmr2.eps>
 (epstopdf)                    size: 2929 bytes
 (epstopdf)             Command: <repstopdf --outfile=./pics/rmr2-eps-converted-
 to.pdf ./pics/rmr2.eps>
-(epstopdf)             \includegraphics on input line 102.
+(epstopdf)             \includegraphics on input line 133.
 Package epstopdf Info: Output file is already uptodate.
 
 <./pics/rmr2-eps-converted-to.pdf, id=22, 543.02875pt x 18.0675pt>
 File: ./pics/rmr2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./pics/rmr2-eps-converted-to.pdf>
-Package pdftex.def Info: ./pics/rmr2-eps-converted-to.pdf used on input line 10
-2.
+Package pdftex.def Info: ./pics/rmr2-eps-converted-to.pdf used on input line 13
+3.
 (pdftex.def)             Requested size: 516.0pt x 17.16898pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -516,29 +602,30 @@ Overfull \hbox (3.21994pt too wide) has occurred while \output is active
   [] 
  []
 
-[2
+[2 <./pics/rmr2-eps-converted-to.pdf>] (./Main.aux)
 
- <./pics/rmr2-eps-converted-to.pdf>] (./Main.aux) ) 
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3567 strings out of 493029
- 49405 string characters out of 6136234
- 119446 words of memory out of 5000000
+ 3568 strings out of 493029
+ 49411 string characters out of 6136234
+ 121446 words of memory out of 5000000
  7041 multiletter control sequences out of 15000+600000
- 113172 words of font info for 117 fonts, out of 8000000 for 9000
+ 114279 words of font info for 118 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,10n,26p,2470b,321s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-di
-st/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf
--dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/u
-tmri8a.pfb>
-Output written on Main.pdf (2 pages, 104853 bytes).
+ 38i,10n,26p,2470b,399s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Main.pdf (2 pages, 118907 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  43 compressed objects within 1 object stream
