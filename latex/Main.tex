@@ -245,7 +245,17 @@ Subsubsection text.
 Subsubsection text.
 
 \subsection{Sound source recognition}
-Subsubsection text.
+Speech recognition in HARK consists of two main processes. First, feature extraction from an audio signal and second, speech recognition using JuliusMFT or KaldiDecoder. 
+
+\begin{itemize}
+\item \textbf{Feature extraction} 
+Hark supports Mel-Scale Log Spectrum (MSLS) and Mel-frequeny cepstal coefficients (MFCCS) feature extraction. The MSLS is defined by the log power spectrum of a short time sound signal on the Mel-frequency domain.
+
+
+\item \textbf{Speech recognition} 
+Both decoder, JuliusMFT as well as KaldiDecoder are compatible to MSLS and MFCCS as input. JuliusMFT is a modified version of Julius which is a open source high-performance continuous speech recognition decoder software. It has a large vocabulary database and can perform almost real-time decoding in 60.000 word dictation tasks. But despite it's performance in speech recognition it's not designed for classification of environmental sounds. Built with the connection to a large database to recognize human speech in mind, this approach might not be suitable for our purpose.\\
+KaldiDecoder is an acoustic model decoder developed for HARK. It was designed using libraries from Kaldi which is a deep learning speech recognition toolkit. It is written is C++, and the core library supports modeling of arbitrary phonetic-context sizes, acoustic modeling with subspace Gaussian mixture models as well as standard Gaussian mixture models, together with all commonly used linear and affine transforms ($https://infoscience.epfl.ch/record/192584$). Such models proved to be usefull tool for environmental sound detection as  Li et all. ($https://arxiv.org/pdf/1703.06902.pdf$) showed in recent studies. They compared the performance of different kind of neural networks challenging them with fifteen different classifiable common indoor and outdoor acoustic scenes, such as bus, cafe, car, city center, forest path, train etc. They presented a gaussian mixture model which achived 77.2\% test accuracy with MFCC features. The best performance achived a hierachical deep neural network with Smile6k features with a test accuracy of 88.2\%. The problem with such a deep neural network is the small amount of labeled data available which is necessarry for sufficiant training. The used models were trained with in total, 13 hours of stereo audio recordings, making it one of the largest datasets available. Considering this the gaussian mixture model seems to be a sufficiant apprach and the Kaldi decoder overall favourable over the JuliusMFT decoder. 
+\end{itemize} 
 
 \section{Experiment and result}
 
